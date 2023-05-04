@@ -42,11 +42,13 @@
     <main>
       <div class="container">
         <h2>Theatres</h2>
-        <div class="inputs">
-          <input type="text" placeholder="Movie" class="movie-input">
-          <input type="text" placeholder="City" class="city-input">
-          <button>Search</button>
-        </div>
+        <form autocomplete="off" class="inputs">
+          <div class="autocomplete">
+            <input type="text" placeholder="Movie" class="movie-input">
+            <input type="text" placeholder="City" class="city-input">
+            <button>Search</button>
+          </div>
+        </form>
         <div class="movies-display">
           <h2>Now Playing:</h2>
           <section class="movies-display">
