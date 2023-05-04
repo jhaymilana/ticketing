@@ -1,0 +1,23 @@
+{
+  "name": "ticketing-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhayMilana/ticketing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhayMilana/ticketing/issues"
+  },
+  "homepage": "https://github.com/JhayMilana/ticketing#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
