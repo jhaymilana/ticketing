@@ -1,6 +1,6 @@
 ## Movie Ticketing Site
 
-Check out my movie ticketing site [here](https://jhaymilana.github.io/alarm-clock/).
+Check out my movie ticketing site [here](https://jhaymilana.github.io/ticketing/).
 This site was created using HTML, CSS, and JavaScript. To display poseters and an autocomplete input feature.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
